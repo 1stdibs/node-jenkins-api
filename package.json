@@ -4,6 +4,7 @@
   "description": "Jenkins API written in Node.js",
   "author": "Shawn Jansepar <shawnjan@gmail.com>",
   "dependencies": {
+    "q": "^1.1.2",
     "request": ">= 2.2.9"
   },
   "repository": {

@@ -1,5 +1,5 @@
 {
-  "name": "jenkins-api",
+  "name": "dibs-jenkins-api",
   "version": "0.2.6",
   "description": "Jenkins API written in Node.js",
   "author": "Shawn Jansepar <shawnjan@gmail.com>",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jansepar/node-jenkins-api.git"
+    "url": "git@github.com:1stdibs/node-jenkins-api.git"
   },
   "keywords": [
     "github",

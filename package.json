@@ -1,6 +1,6 @@
 {
   "name": "dibs-jenkins-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Jenkins API written in Node.js",
   "author": "Shawn Jansepar <shawnjan@gmail.com>",
   "dependencies": {
